@@ -406,7 +406,7 @@ BROOKPR01,Price,Brookfield,F,1948,1949,6,4,185,West Texas A&M University,1920-05
 BROOKCL01,Clarence,Brookins,F,1970,1970,6,4,190,Temple University,1946-01-01 00:00:00
 BROOKKE01,Kevin,Brooks,F,1991,1993,6,6,200,University of Southwestern Louisiana,1969-10-12 00:00:00
 BROOKMI01,Michael,Brooks,F,1980,1987,6,7,220,La Salle University,1958-08-17 00:00:00
-BROOKSC01,Scott,Brooks,G,1988,1997,5,11,165,University of California, Irvine,1965-07-31 00:00:00
+BROOKSC01,Scott,Brooks,G,1988,1997,5,11,165,University of California - Irvine,1965-07-31 00:00:00
 BrookAa01,Aaron,Brooks,G,2007,2009,6,0,160,University of Oregon,1985-01-14 00:00:00
 BrownAn01,Andre,Brown,F,2006,2008,6,9,245,DePaul University,1981-05-12 00:00:00
 BrownDe03,Dee,Brown,G,2006,2008,6,0,185,University of Illinois,1984-08-17 00:00:00
@@ -527,9 +527,9 @@ CANNOLA01,Larry,Cannon,G,1969,1973,6,4,195,La Salle University,1947-04-12 00:00:
 CARDFR01,Frank,Card,F,1968,1972,6,7,195,South Carolina State University,1944-12-28 00:00:00
 CARDIBR01,Brian,Cardinal,F,2000,2009,6,8,245,Purdue University,1977-05-02 00:00:00
 CARLHO01,Howie,Carl,G,1961,1961,5,9,160,DePaul University,1938-06-07 00:00:00
-CARLICH01,Chet,Carlisle,F,1946,1946,6,5,195,University of California, Berkeley,1916-11-02 00:00:00
+CARLICH01,Chet,Carlisle,F,1946,1946,6,5,195,University of California - Berkeley,1916-11-02 00:00:00
 CARLIRI01,Rick,Carlisle,G,1984,1989,6,5,210,University of Maine,1959-10-27 00:00:00
-CARLIGE01,Geno,Carlisle,G,2004,2004,6,3,180,University of California, Berkeley,1976-08-13 00:00:00
+CARLIGE01,Geno,Carlisle,G,2004,2004,6,3,180,University of California - Berkeley,1976-08-13 00:00:00
 CARLODO01,Don,Carlos,G,1968,1968,6,4.5,210,Otterbein College,1944-03-03 00:00:00
 CARLSAL01,Al,Carlson,C,1975,1975,6,11,235,University of Southern California,1951-09-17 00:00:00
 CARLSDO01,Don,Carlson,G,1946,1950,6,0,170,University of Minnesota,1921-03-22 00:00:00
@@ -561,7 +561,7 @@ CARTEMA01,Maurice,Carter,G,2003,2003,6,5,210,Louisiana State University,1976-10-
 CARTWBI01,Bill,Cartwright,C,1979,1994,7,1,245,University of San Francisco ,1957-07-30 00:00:00
 CARTYJA01,Jay,Carty,F,1968,1968,6,7.5,220,Oregon State University,1941-07-04 00:00:00
 CASHCO01,Cornelius,Cash,F,1976,1976,6,8,215,Bowling Green University,1952-03-03 00:00:00
-CASHSA01,Sam,Cash,F,1972,1972,6,8,230,University of California, Riverside,1950-11-13 00:00:00
+CASHSA01,Sam,Cash,F,1972,1972,6,8,230,University of California - Riverside,1950-11-13 00:00:00
 CASSESA01,Sam,Cassell,G,1993,2008,6,3,185,Florida State University,1969-11-18 00:00:00
 CasspOm01,Omri,Casspi,G,2009,2009,6,9,225,NULL,1988-06-22 00:00:00
 CATCHHA01,Harvey,Catchings,C,1974,1984,6,9,218,Hardin-Simmons University,1951-09-02 00:00:00
@@ -592,7 +592,7 @@ CHARLKE01,Ken,Charles,G,1973,1977,6,3,180,Fordham University,1951-07-10 00:00:00
 CHARLLO01,Lorenzo,Charles,F,1985,1985,6,7,225,North Carolina State University,1963-11-25 00:00:00
 CHEANCA01,Calbert,Cheaney,G,1993,2005,6,7,209,Indiana University,1971-07-17 00:00:00
 CHEEKMA01,Maurice,Cheeks,G,1978,1992,6,1,180,West Texas A&M University,1956-09-08 00:00:00
-CHENIPH01,Phil,Chenier,G,1971,1980,6,3,180,University of California, Berkeley,1950-10-30 00:00:00
+CHENIPH01,Phil,Chenier,G,1971,1980,6,3,180,University of California - Berkeley,1950-10-30 00:00:00
 CHIEVDE01,Derrick,Chievous,F,1988,1990,6,7,195,University of Missouri,1967-07-03 00:00:00
 CHILCPE01,Pete,Chilcutt,F,1991,1999,6,10,230,University of North Carolina,1968-09-14 00:00:00
 CHILDRA01,Randolph,Childress,G,1995,1996,6,2,188,Wake Forest University,1972-09-21 00:00:00
@@ -706,7 +706,7 @@ CREVIRO01,Ron,Crevier,F,1985,1985,7,0,235,Boston College,1958-04-14 00:00:00
 CRISLHA01,Hal,Crisler,F,1946,1946,6,3,215,Iowa State University,1923-12-31 00:00:00
 CRISPJO01,Joe,Crispin,G,2001,2001,6,0,185,Pennsylvania State University,1979-07-18 00:00:00
 CRISSCH01,Charlie,Criss,G,1977,1984,5,8,165,New Mexico State University,1948-11-06 00:00:00
-CRITCRU01,Russ,Critchfield,G,1968,1968,5,10,150,University of California, Berkeley,1946-06-27 00:00:00
+CRITCRU01,Russ,Critchfield,G,1968,1968,5,10,150,University of California - Berkeley,1946-06-27 00:00:00
 CRITEWI01,Winston,Crite,F,1987,1988,6,7,233,Texas A&M University,1965-06-20 00:00:00
 CrittJa01,Javaris,Crittenton,G,2007,2008,6,5,198,Georgia Institute of Technology,1987-12-31 00:00:00
 CROCKDI01,Dillard,Crocker,F,1948,1952,6,4,205,Western Michigan University,1925-01-19 00:00:00
